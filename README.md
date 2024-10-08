@@ -7,7 +7,14 @@ The algorithm will be optimized only for processors with 64-bit operations.
 
 ## Table of contents :
 
+- [Advancement](#Advancement)
 - [Code](#code)
+
+## Advancement
+
+For the moment nothing has been coded yet and only attempts to code in python have been made.
+
+The first version will be entirely in python and made as experimental.
 
 
 ## code 
