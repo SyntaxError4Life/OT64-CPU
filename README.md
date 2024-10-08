@@ -10,8 +10,6 @@ The algorithm will be optimized only for processors with 64-bit operations.
 - [Code](#code)
 
 
-
-
-#code 
+## code 
 
 The code will be done mainly in python and C++ as well as a C++ API for python in order to be able to use the OT64 algorithm in python and other languages.
