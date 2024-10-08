@@ -26,4 +26,5 @@ The code will be done mainly in python and C++ as well as a C++ API for python i
 ### extra
 
 I'm a student with a lot of work but I promise to work on it at least 4 times a week and to produce a version in 1 month.
+
 And the possibility of creating a blockchain based on the true philosophy of Satoshi Nakamoto is not zero (CPU only and anonymity in PoW)
