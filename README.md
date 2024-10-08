@@ -1,15 +1,19 @@
 # OT64-CPU
 
+
 ## Description 
 
 The project consists of the creation of an encryption algorithm with a temporal dependence between the bytes and the moment when the algorithm was used.
+
 The algorithm will be optimized only for processors with 64-bit operations.
+
 
 ## Table of contents :
 
 - [Advancement](#Advancement)
 - [Code](#Code)
 - [Extra](#extra)
+
 
 ## Advancement
 
