@@ -23,7 +23,7 @@ A key of multiple size of 32 bits which will encrypt word by word (allows keys o
 
 ## Advancement
 
-For the moment nothing has been coded yet and only attempts to code in python have been made.
+Currently I am working on the theory and I see how to do it in python program, I have a version in preparation.
 
 The first version will be entirely in python and made as experimental.
 
