@@ -8,7 +8,9 @@ The project consists of the creation of an encryption algorithm with a temporal 
 The algorithm will be optimized only for processors with 64-bit operations like XOR gates and floating-point operations.
 
 ### The algorithm will encrypt by words (32 bits) with:
-Salt as the start of the sequence to be encrypted which could be metadata on the data to be encrypted (date)
+
+Salt as the start of the sequence to be encrypted which could be metadata on the data to be encrypted (date).
+
 A key of multiple size of 32 bits which will encrypt word by word (allows keys of unlimited size).
 
 
